@@ -1,0 +1,8 @@
+SHOW DATABASES
+
+
+CREATE DATABASE SpendWise;
+
+-- USE testdb
+SHOW TABLES
+-- SELECT * from city
